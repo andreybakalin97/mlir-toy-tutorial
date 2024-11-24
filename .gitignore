@@ -1,3 +1,9 @@
+# Build and Dev related files
+build/
+.cache/
+.devcontainer/
+compile_commands.json
+
 # Prerequisites
 *.d
 
